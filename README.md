@@ -1,16 +1,18 @@
-## Hi there 👋
+¡Hola! Soy Hajar 👋
 
-<!--
-**HAJAR-NASSIT/Hajar-Nassit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).  
+💻 Me interesa el desarrollo con Java y las tecnologías web.  
+🌱 Actualmente sigo mejorando mis conocimientos y aprendiendo nuevas lenguajes y tecnologías de programación..
 
-Here are some ideas to get you started:
+## Tecnologías
+- Java
+- HTML y CSS
+- JavaScript
+- SQL
+- XML
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- 🎬 Aplicación de venta de entradas de cine.
+- 🎵 Aplicación inspirada en Spotify.
+- 🥤 Proyecto de máquina expendedora.

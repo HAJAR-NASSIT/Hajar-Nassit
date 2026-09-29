@@ -23,6 +23,7 @@
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ## 💻 Frameworks and Design Technologies

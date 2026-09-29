@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                Hi 👋, I'm Hajar
+                                          Hi 👋, I'm Hajar
 👨‍💻 I'm studying a Higher Degree in **DAM (Desarrollo de Aplicaciones Multiplataforma)**<br><br>- 🎨 I want to learn **UI/UX Design and master Figma**<br><br>- 🌱 I’m currently learning **Angular, TypeScript, Kotlin, and Python basics**<br><br>- 💬 Ask me about **Java, HTML, CSS, JavaScript, Git, and SQL / MySQL**
 
 

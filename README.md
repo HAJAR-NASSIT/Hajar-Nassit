@@ -1,62 +1,25 @@
-<h1 align="center">Hi 👋, I'm Hajar</h1>
-<p align="left"> <img src="https://komarev.com" alt="hajar-nassit" /> </p>
+# 💫 About Me:
+                                Hi 👋, I'm Hajar
+👨‍💻 I'm studying a Higher Degree in **DAM (Desarrollo de Aplicaciones Multiplataforma)**<br><br>- 🎨 I want to learn **UI/UX Design and master Figma**<br><br>- 🌱 I’m currently learning **Angular, TypeScript, Kotlin, and Python basics**<br><br>- 💬 Ask me about **Java, HTML, CSS, JavaScript, Git, and SQL / MySQL**
 
-- 👨‍💻 I'm studying a Higher Degree in **DAM (Desarrollo de Aplicaciones Multiplataforma)**
 
-- 🎨 I want to learn **UI/UX Design and master Figma**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HAJAR-NASSIT&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=HAJAR-NASSIT&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HAJAR-NASSIT&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Angular, TypeScript, Kotlin, and Python basics**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HAJAR-NASSIT&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, Git, and SQL / MySQL**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr><br>
-  
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-## 💻 Frameworks and Design Technologies
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-<hr>
-  
-## 🔗 Connect with Me
-
-Feel free to connect with me on LinkedIn:
-
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HAJAR-NASSIT&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=HAJAR-NASSIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://vercel.app" alt="Hajar's Most Used Languages" />
-</p>
-
----
-
-## 🎉 Thanks for Stopping By!
-
-I'm thrilled you visited my profile! 🚀
-
-Feel free to dive into my repositories and explore my projects. If you have any questions or just want to chat about tech, don't hesitate to connect with me on LinkedIn. Let's build something awesome together! 🤝✨
-
-Happy coding! 💻🔍
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
